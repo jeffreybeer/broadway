@@ -33,11 +33,12 @@ img
 .broadway
   {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
-  background-size: cover
+  
   }
 .broadway h3
  {
- color:white;	
+ color:white;
+ text-decoration: none;	
  }
 .navigation
   {
@@ -50,13 +51,13 @@ img
  {
   color:white;
  }
-}
-.footer
+.footer a
  {
  font-family: Helvetica;
- font-size: 11px;
+ font-size: 14px;
  color: white;	
  background-color: dimgray;
+ text-decoration: none;
  }
   
  
